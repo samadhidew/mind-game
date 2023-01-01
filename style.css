@@ -1,0 +1,35 @@
+#grid {
+  display: grid;
+  width: 700px;
+  grid-template-columns: auto auto auto auto;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.round{
+    border-radius: 20px;
+}
+img{
+    width: 100%;
+
+}
+.mem{
+    width:25%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  
+}
+body{
+    background-image: url("./img/backgroundd.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.won{
+    width:10%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px; 
+}
