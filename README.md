@@ -1,0 +1,1 @@
+A simple game done by Javscript. It's a mind game challange do it git add README.mdand have fun.
