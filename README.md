@@ -1,1 +1,2 @@
-A simple game done by Javscript. It's a mind game challange do it git add README.mdand have fun.
+Mind Game Challenge
+A simple game done by Javscript. It's a mind game challange do it and have fun.
